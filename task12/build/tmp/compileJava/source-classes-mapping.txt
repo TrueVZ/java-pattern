@@ -1,0 +1,4 @@
+ru/mirea/task12/FileWorker.java
+ ru.mirea.task12.FileWorker
+ru/mirea/task12/Task12Application.java
+ ru.mirea.task12.Task12Application
