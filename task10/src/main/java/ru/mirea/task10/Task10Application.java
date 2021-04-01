@@ -12,6 +12,8 @@ public class Task10Application {
         ApplicationContext context = new AnnotationConfigApplicationContext(BeanConfigure.class);
         Politician politician = context.getBean(Trump.class);
         politician.doPolitic();
+        Politician politician1 = context.getBean(Merkel.class);
+        politician1.doPolitic();
 
     }
 

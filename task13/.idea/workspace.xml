@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b74851-66db-4bd1-afde-df8022db8af3" name="Default Changelist" comment="" />
+    <list default="true" id="b4b74851-66db-4bd1-afde-df8022db8af3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../task1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task10/src/main/java/ru/mirea/task10/Task10Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task10/src/main/java/ru/mirea/task10/Task10Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task11/.gradle/6.8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../task11/.gradle/6.8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task11/.gradle/6.8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../task11/.gradle/6.8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task11/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../task11/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task12/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../task12/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/task13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task9/dockerBuild/task9-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task9/src/main/java/ru/mirea/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task9/src/main/java/ru/mirea/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,11 +31,30 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Task13Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task13" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.mirea.task13.Task13Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,6 +65,11 @@
       <option name="presentableId" value="Default" />
       <updated>1614637557299</updated>
       <workItem from="1614637558692" duration="5000" />
+      <workItem from="1614638734283" duration="87000" />
+      <workItem from="1614864685129" duration="804000" />
+      <workItem from="1615891441356" duration="32000" />
+      <workItem from="1615895256826" duration="239000" />
+      <workItem from="1615961295186" duration="55000" />
     </task>
     <servers />
   </component>
@@ -51,5 +86,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
